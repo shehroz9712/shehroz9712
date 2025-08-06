@@ -54,11 +54,11 @@
 
 ### 📊 GitHub Stats (with Private Contributions)
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats-lovat-alpha-39.vercel.app/api?username=shehroz9712&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shehroz9712&theme=tokyonight&count_private=true" alt="GitHub Streak" />
-  <br />
+
   <img src="https://github-readme-stats-lovat-alpha-39.vercel.app/api/top-langs/?username=shehroz9712&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
 </p>
 
