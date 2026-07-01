@@ -150,23 +150,22 @@ available_for:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shehroz9712&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-lovat-alpha-39.vercel.app/api?username=shehroz9712&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=shehroz9712&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=shehroz9712&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehroz9712&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats-lovat-alpha-39.vercel.app/api/top-langs/?username=shehroz9712&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shehroz9712&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shehroz9712&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
